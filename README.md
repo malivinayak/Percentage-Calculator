@@ -26,5 +26,3 @@ To use the percentage calculator:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-[Add your license information here, if applicable]
