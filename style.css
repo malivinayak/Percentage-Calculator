@@ -42,15 +42,25 @@ form {
     }
 }
 
-p {
+#formula {
     margin: 0;
     line-height: 1.5;
+    font-size: 18px;
     font-weight: bold;
+    padding-bottom: 15px;
+}
+
+#middle {
+    margin: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    color: #29343d;
+    font-size: 20px;
 }
 
 input[type="text"] {
     padding: 10px;
-    margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
